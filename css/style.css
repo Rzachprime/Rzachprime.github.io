@@ -12,8 +12,6 @@ body {
     margin: 1.5em 0;
     padding: 1.25em 1.5em;
     border-left: 6px solid #2f5ea3;
-    background: rgba(255, 255, 255, 0.95);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 .project-card-soon {
